@@ -6,7 +6,7 @@
 
 Uniform Resource Locator（ユニフォーム・リソース・ロケータ）の略。  
 ホームページの住所に相当するもの。  
-URLの構成は、
+URLの構成は、  
 <img width="445" alt="2023-04-15  13 43 51" src="https://user-images.githubusercontent.com/85010733/232266347-e34cf678-25ba-4660-a27f-67d7528aa4f3.png">  
 となり、webブラウザはこのURLを用いてwebサーバーにページをリクエストする。
 webサーバーはURLの場所にあるページをwebブラウザに返す。
@@ -63,12 +63,13 @@ WebブラウザからWebサーバに対して出されるお願いの種類
 １．HTTPリクエストに含まれる  
 ２．HTTPリクエストラインに書いてある  
 ３．お願いの種類を表すもの  
-GET,POSTなどがHTTPメソッドと呼ばれる。  
+GET,POSTなどがHTTPメソッドと呼ばれる。
+
 HTTPリクエストとは  
 １．HTTPリクエストライン（リクエストライン）  
 ２．HTTPリクエストヘッダ（ヘッダ）  
 ３．HTTPリクエストメッセージボディ（メッセージボディ）  
-からなる。
+からなる。  
 <img width="837" alt="2023-04-15 14 56 01" src="https://user-images.githubusercontent.com/85010733/232266418-609e6efd-cf42-4a69-9b69-e6cc628680cd.png">  
 1行目がリクエストラインである。
 
